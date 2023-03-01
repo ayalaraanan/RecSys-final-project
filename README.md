@@ -16,7 +16,7 @@ C. Suggested improvements including:
 2. Adding transition information to anticipate the next movie genre: [data generation](https://github.com/ayalaraanan/RecSys-final-project/blob/main/Improvements_Markov/RecSys_final_project_candidates_model_with_transitions.ipynb
 ), [model training](https://github.com/ayalaraanan/RecSys-final-project/blob/main/Improvements_Markov/RecSys_final_project_data_generation_for_candidate_model_with_transitions.ipynb)
 
-Further details can be found inside the notebooks and in the final report.
+Further details can be found inside the notebooks and in the [final report](https://github.com/ayalaraanan/RecSys-final-project/blob/main/Final%20Project%20Report.pdf).
 
 ## running the notebooks
 There are two ways to use the notebooks:
