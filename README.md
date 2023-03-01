@@ -20,7 +20,7 @@ Further details can be found inside the notebooks and in the final report.
 ## running the notebooks
 There are two ways to use the notebooks:
 
-i. If you wish to run all notebooks yourself, you will need to store the outputs for later use by the other notebooks.
+i. If you wish to modify and run all notebooks yourself, you will need to store the outputs for later use by the other notebooks.
 I used google drive for the task.
 
-ii. All of my data, intermediate results, and results are accessible with gdown. You will need to import and run gdown upgrade (which in Google Colab requires restaring the runtime after first installation).
+ii. All of my data files, intermediate results, and results are accessible with gdown. You may need to import and run gdown upgrade (which in Google Colab requires restaring the runtime after first installation).
