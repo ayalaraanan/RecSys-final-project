@@ -20,7 +20,7 @@ C. Suggested improvements including:
 
 Further details can be found inside the notebooks and in the [final report](https://github.com/ayalaraanan/RecSys-final-project/blob/main/Final%20Project%20Report.pdf).
 
-## running the notebooks
+## Running the notebooks
 There are two ways to use the notebooks:
 
 i. If you wish to modify and run all notebooks yourself, you will need to store the outputs for later use by the other notebooks.
