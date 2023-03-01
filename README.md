@@ -4,7 +4,7 @@
 This project is composed of:
 
 A. The main YouTube model, which includes the following notebooks:
-1. [Datasets generation for the candidates model](RecSys-final-project/1_RecSys_final_project_data_generation_for_candidate_model.ipynb)
+1. [Datasets generation for the candidates model](https://github.com/ayalaraanan/RecSys-final-project/blob/main/1_RecSys_final_project_data_generation_for_candidate_model.ipynb)
 2. Candidates model
 3. Datasets generation for the ranking model (using the candidates model output)
 4. Ranking model
