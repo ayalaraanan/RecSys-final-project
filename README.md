@@ -1,7 +1,9 @@
 # Reccomendation Systems Final Project
 ### Applying the two-stage YouTube recommendation system to MovieLens 1M
 
-This project is composed of:
+This project is implementing the model as presented in the [paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf) by Covington, Adams and Sargin. It is recommended to read the [report](https://github.com/ayalaraanan/RecSys-final-project/blob/main/Final%20Project%20Report.pdf) first.
+
+The project is composed of:
 
 A. The main YouTube model, which includes the following notebooks:
 1. [Datasets generation for the candidates model](https://github.com/ayalaraanan/RecSys-final-project/blob/main/1_RecSys_final_project_data_generation_for_candidate_model.ipynb)
