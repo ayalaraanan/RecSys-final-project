@@ -11,7 +11,7 @@ A. The main YouTube model, which includes the following notebooks:
 3. [Datasets generation for the ranking model](https://github.com/ayalaraanan/RecSys-final-project/blob/main/3_RecSys_final_project_data_generation_for_Ranking.ipynb) (using the candidates model output)
 4. [Ranking model](https://github.com/ayalaraanan/RecSys-final-project/blob/main/4_RecSys_final_project_Ranking_model.ipynb)
 
-B. A [matrix factorization model](https://github.com/ayalaraanan/RecSys-final-project/blob/main/baseline/RecSys_final_project_youtube_MF_baseline.ipynb), which runs with the same model
+B. A [matrix factorization model](https://github.com/ayalaraanan/RecSys-final-project/blob/main/baseline/RecSys_final_project_youtube_MF_baseline.ipynb), Used as a reference with the same data
 
 C. Suggested improvements including:
 1. Integrating [RNN units](https://github.com/ayalaraanan/RecSys-final-project/blob/main/Improvements_RNN/RecSys_final_project_candidates_model_with_RNN.ipynb) for handling viewing history
